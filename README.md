@@ -79,16 +79,23 @@ All plots are available in [plots](https://cernbox.cern.ch/s/cqWix6M5lxw9jOY)
 
 <img width="1472" height="832" alt="vbf_eff_vs_mjj" src="https://github.com/user-attachments/assets/b454819c-8195-4dd6-a454-d18def0dd6a6" />
 
-### Triggers MET:
-
 ## Resolved
 
 <img width="1472" height="832" alt="vbf_eff_vs_pTW_resolved" src="https://github.com/user-attachments/assets/016bd403-6809-4bb2-bd21-ca29421f03bd" />
 
 
 ## Boosted
+
 <img width="1472" height="832" alt="vbf_eff_vs_pTW_boosted" src="https://github.com/user-attachments/assets/75f4f7c9-672d-4d9c-8090-010ed8ff7ca0" />
 
 
+### Triggers MET:
+
+## Resolved
+
+<img width="1472" height="832" alt="met_RMET_eff_vs_MET" src="https://github.com/user-attachments/assets/b94febc4-24fa-4ff0-8267-3a2dd73d945a" />
 
 
+## Boosted
+
+<img width="1472" height="832" alt="met_BMET_eff_vs_MET" src="https://github.com/user-attachments/assets/e74a252b-bbcb-47de-9475-da5796828073" />
