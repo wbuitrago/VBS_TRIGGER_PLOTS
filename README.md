@@ -1,5 +1,13 @@
 # VBS_TRIGGER_PLOTS
 
+This analysis reproduces trigger efficiencies for VBF and MET categories using NanoAODv15 for Summer24 RUN3 VBSWZJJ To Jets + MET samples.
+
+The efficiencies are computed as:
+
+\epsilon = \frac{N_{\text{events passing HLT}}}{N_{\text{offline baseline}}}
+
+with Clopper–Pearson confidence intervals as is proposed in [Ref. Triggers Run3](https://cds.cern.ch/record/2875709/files/DP2023_076.pdf).
+
 # Triggers VBF:
 | VBF TRIGGERS RUN3 SUMMER 24 (NanoAODV15)| 
 | ------------ | 
