@@ -1,1 +1,11 @@
 # VBS_TRIGGER_PLOTS
+
+# Triggers VBF:
+| Encabezado 1 | 
+| ------------ | 
+| HLT_VBF_DiPFJet125_45_Mjj1050 | 
+| HLT_VBF_DiPFJet125_45_Mjj1200 | 
+| HLT_VBF_DiPFJet75_45_Mjj800_DiPFJet60 | 
+| HLT_VBF_DiPFJet75_45_Mjj850_DiPFJet60 | 
+| HLT_VBF_DiPFJet80_45_Mjj650_PFMETNoMu85 | 
+| HLT_VBF_DiPFJet80_45_Mjj750_PFMETNoMu85 | 
