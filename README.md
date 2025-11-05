@@ -80,6 +80,11 @@ The transverse momentum $p_T(W)$ in the boosted efficiency plots corresponds to 
 
 ### Triggers MET:
 
+## Resolved
+
+<img width="1472" height="832" alt="vbf_eff_vs_pTW_resolved" src="https://github.com/user-attachments/assets/016bd403-6809-4bb2-bd21-ca29421f03bd" />
+
+
 ## Boosted
 <img width="1472" height="832" alt="vbf_eff_vs_pTW_boosted" src="https://github.com/user-attachments/assets/75f4f7c9-672d-4d9c-8090-010ed8ff7ca0" />
 
