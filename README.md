@@ -65,6 +65,8 @@ The transverse momentum $p_T(W)$ in the boosted efficiency plots corresponds to 
 
 All plots are available in [plots](https://cernbox.cern.ch/s/cqWix6M5lxw9jOY)
 
+List of triigers AN2020_083_V4 and equivalents for RUN3 [Triggers](https://docs.google.com/spreadsheets/d/1PLtHa9YaFJMoSveqR5lRMyYv3EKukWu92c4nCHU2p_g/edit?gid=0#gid=0)
+
 ### Triggers VBF:
 
 | VBF TRIGGERS RUN3 SUMMER 24 (NanoAODV15)| 
