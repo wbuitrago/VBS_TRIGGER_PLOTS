@@ -14,8 +14,8 @@ For the forward jets, it was selected the two AK4 jets with maximum $m_{jj}$.
 
 
 $N_{jets}^{AK4} \ge 2$
-$ p_T(j_1) > 60~\mathrm{GeV}$, $\quad p_T(j_2) > 45~\mathrm{GeV} $
-$ m_{jj} > 500~\mathrm{GeV}$, $\quad |\Delta\eta(j_1,j_2)| > 2.5 $
+$p_T(j_1) > 60~\mathrm{GeV}$, $\quad p_T(j_2) > 45~\mathrm{GeV}$
+$m_{jj} > 500~\mathrm{GeV}$, $\quad |\Delta\eta(j_1,j_2)| > 2.5$
 
 This defines denom_VBS — the common baseline for all categories.
 
