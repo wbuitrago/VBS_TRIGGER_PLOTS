@@ -91,6 +91,21 @@ All plots are available in [plots](https://cernbox.cern.ch/s/cqWix6M5lxw9jOY)
 
 ### Triggers MET:
 
+| MET TRIGGERS RUN3 SUMMER 24 (NanoAODV15)| 
+| ------------ | 
+| HLT_PFMET120_PFMHT120_IDTight | 
+| HLT_PFMET120_PFMHT120_IDTight_PFHT60 | 
+| HLT_PFMET130_PFMHT130_IDTight | 
+| HLT_PFMET140_PFMHT140_IDTight | 
+| HLT_PFMETNoMu110_PFMHTNoMu110_IDTight_FilterHF | 
+| HLT_PFMETNoMu120_PFMHTNoMu120_IDTight | 
+| HLT_PFMETNoMu120_PFMHTNoMu120_IDTight_FilterHF | 
+| HLT_PFMETNoMu120_PFMHTNoMu120_IDTight_PFHT60 | 
+| HLT_PFMETNoMu130_PFMHTNoMu130_IDTight | 
+| HLT_PFMETNoMu130_PFMHTNoMu130_IDTight_FilterHF | 
+| HLT_PFMETNoMu140_PFMHTNoMu140_IDTight | 
+| HLT_VBF_PFMETNoMu140_PFMHTNoMu140_IDTight_FilterHF | 
+
 ## Resolved
 
 <img width="1472" height="832" alt="met_RMET_eff_vs_MET" src="https://github.com/user-attachments/assets/b94febc4-24fa-4ff0-8267-3a2dd73d945a" />
